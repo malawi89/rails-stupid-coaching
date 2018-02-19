@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.btn-treehouse{
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
+
+.question-form{
+  height: 32px;
+}
+
+body{
+  background-color: #D8B4A0;
+  background-image: "../images/patches.jpeg";
+  text-align: center;
+
+}
+
+
